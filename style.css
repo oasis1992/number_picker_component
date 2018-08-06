@@ -1,0 +1,22 @@
+.new-btn-box {
+    width: 100%;
+    height: 150px;
+    border: 1px solid #80808078;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color ease-in 0.5s;
+    cursor: pointer;
+}
+
+.new-plus {
+    font-size: 32px;
+}
+
+.new-btn-box:hover {
+    background-color: #d9ddde;
+}
+
+.container-new-btn-box {
+    width: 100%;
+}
